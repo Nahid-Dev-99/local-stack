@@ -1,5 +1,5 @@
- ../.terraform.lock.hcl
- ../terraform-provider-aws_v4.67.0_x5
-../terraform.tfstate
-../terraform.tfstate.backup
-../volume/
+.terraform.lock.hcl
+terraform-provider-aws_v4.67.0_x5
+terraform.tfstate
+terraform.tfstate.backup
+volume/
